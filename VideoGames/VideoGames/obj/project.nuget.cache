@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdApqgfdtUDg/PWX95peF1XcHRlddz8JgqRyUtn8Ri5KOM9rpEwXO7aezOBZ6kkl0QeelO4+ixOJir8EaQlU6A==",
+  "dgSpecHash": "xHlzcfohbhwVh9MHogHX1lvu/jdYZ2LUoQHk7RMzqIRc9+w4YINZtwSgsfhmk9mUnuzYrn61tyHckBUogz9qqg==",
   "success": true,
-  "projectFilePath": "D:\\Repository\\VisStud\\VideoGames\\VideoGames\\VideoGames.csproj",
+  "projectFilePath": "D:\\Repository\\csci340lab7\\VideoGames\\VideoGames\\VideoGames.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanli\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vanli\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

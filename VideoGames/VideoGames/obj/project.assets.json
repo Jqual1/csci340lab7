@@ -7153,11 +7153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repository\\VisStud\\VideoGames\\VideoGames\\VideoGames.csproj",
+      "projectUniqueName": "D:\\Repository\\csci340lab7\\VideoGames\\VideoGames\\VideoGames.csproj",
       "projectName": "VideoGames",
-      "projectPath": "D:\\Repository\\VisStud\\VideoGames\\VideoGames\\VideoGames.csproj",
+      "projectPath": "D:\\Repository\\csci340lab7\\VideoGames\\VideoGames\\VideoGames.csproj",
       "packagesPath": "C:\\Users\\vanli\\.nuget\\packages\\",
-      "outputPath": "D:\\Repository\\VisStud\\VideoGames\\VideoGames\\obj\\",
+      "outputPath": "D:\\Repository\\csci340lab7\\VideoGames\\VideoGames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanli\\AppData\\Roaming\\NuGet\\NuGet.Config",

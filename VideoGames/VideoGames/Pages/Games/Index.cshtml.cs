@@ -20,7 +20,7 @@ namespace VideoGames.Pages.Games
             _context = context;
         }
 
-        public IList<Game> Game { get;set; }
+        public IList<Game> Game { get; set; }
         [BindProperty(SupportsGet = true)]
         public string SearchString { get; set; }
         public SelectList GameTypes { get; set; }
@@ -48,7 +48,7 @@ namespace VideoGames.Pages.Games
             {
                 games = games.Where(t => t.GameType == GameType);
             }
-            if (!string.IsNullOrEmpty(GameType))
+            if (!string.IsNullOrEmpty(Device))
             {
                 games = games.Where(d => d.Device == Device);
             }
